@@ -59,7 +59,7 @@ require (
 	github.com/spf13/afero v1.9.5
 	github.com/spf13/cast v1.5.1
 	github.com/spf13/cobra v1.7.0
-	github.com/spf13/fsync v0.9.0
+	github.com/spf13/fsync v0.10.0
 	github.com/spf13/pflag v1.0.5
 	github.com/tdewolff/minify/v2 v2.12.7
 	github.com/tdewolff/parse/v2 v2.6.6
